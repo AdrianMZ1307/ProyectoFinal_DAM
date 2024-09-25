@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Book">
+   <topic label="Ayuda">
+   		<tocitem text="Menu Principal" target="principal">
+   			<tocitem text="-" target="principal">
+				<tocitem text="-" target="principal"/>
+				<tocitem text="-" target="principal">
+					<tocitem text="-" target="principal"/>
+				</tocitem>
+			</tocitem>
+   			<tocitem text="Configuracion de la Aplicacion" target="configuration"/>
+		</tocitem>
+   </topic>
+</toc>

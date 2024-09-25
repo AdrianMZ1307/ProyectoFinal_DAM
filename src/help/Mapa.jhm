@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding="UTF-8" ?>
+<map version="2.0">
+	<mapID target="principal" url="html/principal.html" >
+	<mapID target="configuration" url="html/properties.html" >
+	</mapID>
+</map>
